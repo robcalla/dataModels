@@ -87,8 +87,7 @@
               "monthlyPayment",
               "free",
               "other",
-              "unknown",
-              "temporaryFee"
+              "unknown"
             ]
           },
           "minItems": 1,
